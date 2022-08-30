@@ -17,7 +17,10 @@ If you don't have your own data yet, you can use the access token `demo` in the 
 - Click `New App` and fill out the form
 - Follow the OAuth integration instructions in the `Integration Guide` link
 
-## Common API Usage Examples
+### Common API Usage Examples
+Instead of using this SDK, you can also use the requests in our [interactive API documenation](https://curedao.org/api-docs).  Just click the dots to the right of the "LANGUAGE" section and select `Node` or `Javascript`.  Then you can just copy the request for usage in your project.
+
+Here are some common usages:
 - [Get Units](https://curedao.readme.io/reference/getunits)
 - [Get Variables](https://curedao.readme.io/reference/getvariables)
 - [Get Variable Categories](https://curedao.readme.io/reference/getvariablecategories)
@@ -25,16 +28,16 @@ If you don't have your own data yet, you can use the access token `demo` in the 
 - [Save a Measurement](https://curedao.readme.io/reference/postmeasurements)
 - [Get Measurements](https://curedao.readme.io/reference/getmeasurements)
 
-## [Get Variables](https://curedao.readme.io/reference/getvariables)
+### [Get Variables](https://curedao.readme.io/reference/getvariables)
 ![How to Get Variables](https://user-images.githubusercontent.com/2808553/187514806-a3261932-106a-49b9-b760-2b4b52b384c7.png)
 
-## [Get a Specific Variable](https://curedao.readme.io/reference/getvariables)
+### [Get a Specific Variable](https://curedao.readme.io/reference/getvariables)
 ![How to Get a Variable](https://user-images.githubusercontent.com/2808553/187515384-cb1a721b-4534-4e5c-9c94-544288b49780.png)
 
-## [Save a Measurement](https://curedao.readme.io/reference/postmeasurements)
+### [Save a Measurement](https://curedao.readme.io/reference/postmeasurements)
 ![Save a Measurement](https://user-images.githubusercontent.com/2808553/187521885-e9e1dee3-c07c-4073-a503-315ce345fc52.png)
 
-## [Get Measurements](https://curedao.readme.io/reference/getmeasurements)
+### [Get Measurements](https://curedao.readme.io/reference/getmeasurements)
 ![Get Measurements](https://user-images.githubusercontent.com/2808553/187522064-9f176e08-53f4-47cb-8084-8feb8cdb3428.png)
 
 
