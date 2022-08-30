@@ -18,7 +18,7 @@ If you don't have your own data yet, you can use the access token `demo` in the 
 - Follow the OAuth integration instructions in the `Integration Guide` link
 
 ### Common API Usage Examples
-Instead of using this SDK, you can also use the requests in our [interactive API documenation](https://curedao.org/api-docs).  Just click the dots to the right of the "LANGUAGE" section and select `Node` or `Javascript`.  Then you can just copy the request for usage in your project.
+Instead of using this SDK, you can also use the requests in our [interactive API documenation](https://curedao.org/api-docs).  Just click the dots to the right of the "LANGUAGE" section and select the language you want to use.  Then you can just copy the request from the documenation for usage in your project.
 
 Here are some common usages:
 - [Get Units](https://curedao.readme.io/reference/getunits)
